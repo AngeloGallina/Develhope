@@ -1,0 +1,47 @@
+.Navbar {
+    padding: 10px;
+    background-color: #2f3840;
+    border-radius: 10px;
+    width: 650px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    color: white;
+    word-spacing: 8px;
+}
+
+#button {
+    padding: 6px;
+    background-color: #2f3840;
+    border: 1px solid green;
+    color: green;
+    border-radius: 6px;
+}
+
+#button:hover {
+    background-color: green;
+    color: white;
+}
+
+#placeholder {
+    margin-left: 50px;
+    padding: 6px;
+    color: black;
+    border-radius: 6px;
+
+}
+
+#textnav {
+    font-size: medium;
+}
+
+#freccetta {
+    background-color: #2f3840;
+    border: 0px none;
+    color: green;
+   
+}
+
+.darktext{
+    color: grey;
+
+}
